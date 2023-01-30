@@ -1,0 +1,9 @@
+
+div.slider13>div.slider13-1>*{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    background-size: cover;
+    margin-top: 5px;
+
+}
